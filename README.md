@@ -3,18 +3,7 @@
 - 🌱 I’m currently learning Flutter, Dart...
 - 💬 Ask me about Dart, Bloc, Provider, Hive
 - ⚡️ Fun fact I am very HAPPY :) 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <progress value="30" max="100"></progress>
-</body>
-</html>
+
 
 <h3 align="center">A Mobile developer from Uzbekistan</h3>
 <h1 style="color:red;font-size:30px;"> shohruh </h1>
