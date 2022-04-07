@@ -6,6 +6,7 @@
 
 <h3 align="center">A Mobile developer from Uzbekistan</h3>
 <h1 style="color:red;"> shohruh </h1>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
