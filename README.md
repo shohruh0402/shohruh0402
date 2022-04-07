@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 , I'm Shohuh Nabijonov
 
 - 🌱 I’m currently learning Flutter, Dart...
 - 💬 Ask me about Dart, Bloc, Provider, Hive
