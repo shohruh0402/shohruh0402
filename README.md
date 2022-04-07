@@ -4,7 +4,7 @@
 - 💬 Ask me about Dart, Bloc, Provider, Hive
 - ⚡️ Fun fact I am very HAPPY :) 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Mobile developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
