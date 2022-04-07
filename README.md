@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning Flutter, Dart...
 - 💬 Ask me about Dart, Bloc, Provider, Hive
 - ⚡️ Fun fact I am very HAPPY :) 
+- 
+<progress value="30" max="100"></progress>
 
 <h3 align="center">A Mobile developer from Uzbekistan</h3>
 <h1 style="color:red;font-size:30px;"> shohruh </h1>
 
-<progress value="30" max="100"></progress>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
