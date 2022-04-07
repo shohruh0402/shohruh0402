@@ -5,7 +5,7 @@
 - ⚡️ Fun fact I am very HAPPY :) 
 
 <h3 align="center">A Mobile developer from Uzbekistan</h3>
-<h1 color="green"> shohruh </h3>
+<h1 align="center"> shohruh </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
