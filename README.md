@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Flutter, Dart...
 - 💬 Ask me about Dart, Bloc, Provider, Hive
-- ⚡️ Fun fact I am very HAPPY :) 
+- ⚡️ Fun fact I am very HAPPY :) <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Rocket.gif" height="18px">
 
 
 <h3 align="center">A Mobile developer from Uzbekistan</h3>
