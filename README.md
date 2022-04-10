@@ -9,7 +9,6 @@
 <h3 align="center"> A Mobile developer from Uzbekistan</h3>
 <h1 style="color:red;font-size:30px;"> shohruh </h1>
 
-  <input type="text" placeholder="first name"/>
  
 
 
