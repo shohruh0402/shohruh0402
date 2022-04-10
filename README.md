@@ -10,6 +10,12 @@
 <h1 style="color:red;font-size:30px;"> shohruh </h1>
 
 
+<blockquote>
+    <p>
+    </p>
+    <footer>
+    </footer>
+</blockquote>
 
 
 <h3 align="left">Connect with me:</h3>
